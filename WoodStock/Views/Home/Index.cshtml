@@ -1,0 +1,213 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@using WoodStock.ViewModels
+@model RegisterViewModel
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css"
+          integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+    <link rel="stylesheet" href="./css/Main.css">
+    <title>Document</title>
+</head>
+
+<body style="background-color: #F2F2E5;">
+    <nav id="mainNavbar" class="navbar-color navbar navbar-light navbar-expand-md fixed-top">
+        <a href="#" class="navbar-brand px-3">Wood<img class="logo" src="../wwwroot/asets/logo.svg" alt="">Stock</a>
+        <button class="navbar-toggler" data-toggle="collapse" data-target="#navLinks">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navLinks">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a href="@Url.ActionLink("Index", "Home")" class="nav-link">Home</a>
+                </li>
+                @if (User.Identity.IsAuthenticated)
+                {
+                    <li class="nav-item">
+                        <a href="@Url.ActionLink("Catalog", "Catalog")" class="nav-link">Catalog</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="@Url.ActionLink("CreateProd", "CreateProduct")" class="nav-link">CreateProd</a>
+                    </li>
+                }
+            </ul>
+        </div>
+        @if (User.Identity.IsAuthenticated)
+        {
+            <div class="item collapse navbar-collapse" id="navLinks">
+                <a class="btn color mx-3" href="@Url.ActionLink("Profile", "Profile")">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                         class="bi bi-person-bounding-box" viewBox="0 0 16 16">
+                        <path d="M1.5 1a.5.5 0 0 0-.5.5v3a.5.5 0 0 1-1 0v-3A1.5 1.5 0 0 1 1.5 0h3a.5.5 0 0 1 0 1h-3zM11 .5a.5.5 0 0 1 .5-.5h3A1.5 1.5 0 0 1 16 1.5v3a.5.5 0 0 1-1 0v-3a.5.5 0 0 0-.5-.5h-3a.5.5 0 0 1-.5-.5zM.5 11a.5.5 0 0 1 .5.5v3a.5.5 0 0 0 .5.5h3a.5.5 0 0 1 0 1h-3A1.5 1.5 0 0 1 0 14.5v-3a.5.5 0 0 1 .5-.5zm15 0a.5.5 0 0 1 .5.5v3a1.5 1.5 0 0 1-1.5 1.5h-3a.5.5 0 0 1 0-1h3a.5.5 0 0 0 .5-.5v-3a.5.5 0 0 1 .5-.5z" />
+                        <path d="M3 14s-1 0-1-1 1-4 6-4 6 3 6 4-1 1-1 1H3zm8-9a3 3 0 1 1-6 0 3 3 0 0 1 6 0z" />
+                    </svg>
+                </a>
+            </div>
+        }
+        else
+        {
+            <div id="navLinks" class="btn-group collapse navbar-collapse item ">
+                <a style="max-width: 150px;" href="#registerForm" class="btn btn-outline color">Sign up</a>
+                <a style="max-width: 150px;" href="@Url.ActionLink("LogIn", "LogIn")" class="btn btn-outline color">Log in</a>
+
+            </div>
+        }
+
+    </nav>
+
+    <section class="px-0">
+        <div style="margin: 0;" class="row align-items-center">
+            <div style="padding: 0;" class=" col-lg-6 order-lg-1 order-2">
+                <div id="headingGroup" class="text-black text-center my-3">
+                    <h1>Wood Stok</h1>
+                    <img class="img-fluid" src="./asets/box.svg" alt="">
+                    <p class="lead mx-3">
+                        Our application is designed for small and medium business owners who want to effectively
+                        manage
+                        their
+                        sales and inventory. We will help you automate the process of accounting for goods, manage
+                        inventory and
+                        increase the efficiency of your business.
+                    </p>
+                </div>
+            </div>
+
+            <div style="padding: 0;" class="col-lg-6 order-lg-2 order-1">
+                <img class="img-fluid" src="./asets/optimization2.png" alt="">
+            </div>
+        </div>
+    </section>
+
+    <section class="container-fluid px-0">
+        <div style="margin: 0;" class="row align-items-center">
+            <div style="padding: 0;" class="col-lg-6">
+                <img class="img-fluid" src="./asets/advantages.png" alt="">
+            </div>
+            <div style="padding: 0;" class="text-center col-lg-6">
+                <div id="headingGroup" class="text-black text-center my-3">
+                    <h1 style="margin-bottom: 7%;">Advantages</h1>
+                    <ul class="mx-3">
+                        <li>
+                            <span>
+                                User friendly interface: Our application has a simple and intuitive interface that
+                                will
+                                help
+                                you quickly
+                                master all the features.
+                            </span>
+                        </li>
+                        <li>
+                            <span>
+                                Automatic accounting: the application allows you to automatically track the stock of
+                                goods,
+                                which will help you avoid
+                                losses and shortages.
+                            </span>
+                        </li>
+                        <li>
+                            <span>
+                                Sales Management: Easily track sales and manage orders to improve efficiency and
+                                increase
+                                profits.
+                            </span>
+                        </li>
+                    </ul>
+
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="registerForm" class="container-fluid">
+        <div style="margin: 40px 0 40px 0;" class="row align-items-center">
+
+            <div class="col-3 col-lg-4"></div>
+            <div id="register-form" class="text-center col-6 col-lg-4 registerForm">
+                <div id="headingGroup" class="text-black text-center">
+                    <h1>Sign up</h1>
+                    <form method="post" asp-controller="Home" asp-action="Index">
+                        <div class="form-group">
+                            <label asp-for="Firstname">Firstname</label>
+                            <input asp-for="Firstname" type="text" class="form-control" id="firstname">
+
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Lastname">Lastname</label>
+                            <input asp-for="Lastname" type="text" class="form-control" id="secondName">
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Email">Email address</label>
+                            <input asp-for="Email" type="email" class="form-control" id="Email1"
+                                   aria-describedby="emailHelp">
+                            <small id="emailHelp" class="form-text text-muted">
+                                We'll never share your email with
+                                anyone
+                                else.
+                            </small>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="CompanyName">Company name</label>
+                            <input asp-for="CompanyName" type="text" class="form-control" id="companyName">
+
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Password">Password</label>
+                            <input asp-for="Password" type="password" class="form-control" id="Password">
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="PasswordConfirm">Confirm password</label>
+                            <input asp-for="PasswordConfirm" type="password" class="form-control" id="ConfirmPassword">
+                        </div>
+
+                        <input type="submit" class="btn btn-success" value="Sign up">
+                    </form>
+                </div>
+            </div>
+            <div class="col-3 col-lg-4"></div>
+        </div>
+    </section>
+
+    <footer style="background-color: white;"
+            class="d-flex flex-wrap justify-content-between align-items-center py-4 border-top">
+        <p class="col-md-4 mb-0 text-muted">&copy; Wood Stock</p>
+
+
+        <a href="./Main.html" style="color: black !important;"
+           class="col-md-4 d-flex align-items-center justify-content-center mb-3 mb-md-0 me-md-auto text-decoration-none">
+            Wood<img class="logo" src="./asets/logo.svg" alt="">Stock
+        </a>
+
+
+        <ul class="nav col-md-4 justify-content-end">
+            <li class="nav-item"><a href="./Main.html" class="nav-link px-2 text-muted">Home</a></li>
+            <li class="nav-item"><a href="./Catalog-Light.html" class="nav-link px-2 text-muted">Catalog</a></li>
+            <li class="nav-item"><a href="#" class="nav-link px-2 text-muted">Pricing</a></li>
+            <li class="nav-item"><a href="#" class="nav-link px-2 text-muted">FAQs</a></li>
+            <li class="nav-item"><a href="#" class="nav-link px-2 text-muted">About</a></li>
+        </ul>
+    </footer>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+            integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+            crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx"
+            crossorigin="anonymous"></script>
+    <script>
+        $(function () {
+            $(document).scroll(function () {
+                var $nav = $("#mainNavbar");
+                $nav.toggleClass("scrolled", $(this).scrollTop() > $nav.height());
+            })
+        })
+    </script>
+</body>
+
+</html>

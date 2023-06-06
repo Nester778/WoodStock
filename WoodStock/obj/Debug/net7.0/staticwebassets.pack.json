@@ -1,0 +1,353 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\WoodStock.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WoodStock.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\asets\\FonRommel.png",
+      "PackagePath": "staticwebassets\\asets\\FonRommel.png"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\asets\\Svin.png",
+      "PackagePath": "staticwebassets\\asets\\Svin.png"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\asets\\advantages.png",
+      "PackagePath": "staticwebassets\\asets\\advantages.png"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\asets\\box.svg",
+      "PackagePath": "staticwebassets\\asets\\box.svg"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\asets\\bufet.jpg",
+      "PackagePath": "staticwebassets\\asets\\bufet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\asets\\check.svg",
+      "PackagePath": "staticwebassets\\asets\\check.svg"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\asets\\kuhnij.jpg",
+      "PackagePath": "staticwebassets\\asets\\kuhnij.jpg"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\asets\\logo.svg",
+      "PackagePath": "staticwebassets\\asets\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\asets\\optimization.png",
+      "PackagePath": "staticwebassets\\asets\\optimization.png"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\asets\\optimization2.png",
+      "PackagePath": "staticwebassets\\asets\\optimization2.png"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\asets\\rack.png",
+      "PackagePath": "staticwebassets\\asets\\rack.png"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\asets\\rackLight.png",
+      "PackagePath": "staticwebassets\\asets\\rackLight.png"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\asets\\shkaf.jpg",
+      "PackagePath": "staticwebassets\\asets\\shkaf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\asets\\stol.jpg",
+      "PackagePath": "staticwebassets\\asets\\stol.jpg"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\asets\\tumba.jpg",
+      "PackagePath": "staticwebassets\\asets\\tumba.jpg"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\asets\\vintageFurniture.jpg",
+      "PackagePath": "staticwebassets\\asets\\vintageFurniture.jpg"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\asets\\vintageFurniture.png",
+      "PackagePath": "staticwebassets\\asets\\vintageFurniture.png"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\css\\Catalog-Light.css",
+      "PackagePath": "staticwebassets\\css\\Catalog-Light.css"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\css\\Detales.css",
+      "PackagePath": "staticwebassets\\css\\Detales.css"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\css\\Main.css",
+      "PackagePath": "staticwebassets\\css\\Main.css"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\css\\Register.css",
+      "PackagePath": "staticwebassets\\css\\Register.css"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\js\\Slider.js",
+      "PackagePath": "staticwebassets\\js\\Slider.js"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\anest\\source\\repos\\WoodStock\\WoodStock\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.WoodStock.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.WoodStock.props",
+      "PackagePath": "build\\WoodStock.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.WoodStock.props",
+      "PackagePath": "buildMultiTargeting\\WoodStock.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.WoodStock.props",
+      "PackagePath": "buildTransitive\\WoodStock.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
